@@ -31,6 +31,6 @@ public class BaseController {
 		model.addAttribute("message", "" + name);
 		return VIEW_INDEX;
 
-	
+	}
 
 }
